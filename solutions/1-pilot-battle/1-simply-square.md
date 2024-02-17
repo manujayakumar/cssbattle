@@ -7,8 +7,16 @@
 ![result](./img/1-simple-square.png)
 
 ```html
-<p>
-  <style>
-    *{margin:0;background:#5d3a3a}
-    p{width:200;height:200;background:#b5e0ba}
+<p></p>
+<style>
+    * {
+        margin: 0;
+        background: #5d3a3a
+    }
+    p {
+        width: 200px;
+        height: 200px;
+        background:#b5e0ba;
+    }
+</style>
 ```
