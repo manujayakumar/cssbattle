@@ -4,12 +4,10 @@
 
 [Link to the problem](https://cssbattle.dev/play/3)
 
-![result](./img/2-carrom.png)
+![result](./img/3-push-button.png)
 
 ```html
-<p c></p>
-<p o></p>
-<p i></p>
+<p c><p o><p i><!-- instead of using class(<p class="a"></p>) or id(<p id="a">) simply uses <p a></p> or <p> -->
 <style>
   body {
         margin:0;
@@ -20,7 +18,7 @@
   p {
         position:absolute;
     }
-  p[c] {
+  p[c] {            /*instead of using .a(for class) or #a(for id) can be called p[a] with p tag or just [a] with square brackets*/
         width:300px;
         height:150px;
         background:#243D83;
