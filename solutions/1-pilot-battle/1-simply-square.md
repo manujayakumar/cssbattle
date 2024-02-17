@@ -11,7 +11,7 @@
 <style>
     * {
         margin: 0;
-        background: #5d3a3a
+        background: #5d3a3a;
     }
     p {
         width: 200px;
