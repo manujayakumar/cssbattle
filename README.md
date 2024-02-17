@@ -14,4 +14,4 @@ Let's design with code!
 
  ![preview](./solutions/1-pilot-battle/img/preview.png)
 
- -[#1 - Simple Square](./solutions/1-pilot-battle/1-simply-square.md)
+ - [#1 - Simple Square](./solutions/1-pilot-battle/1-simply-square.md)
