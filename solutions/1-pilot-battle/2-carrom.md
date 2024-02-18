@@ -1,13 +1,13 @@
 # Battle #1 - Pilot Battle
 
-## #1 - Carrom
+## #2 - Carrom
 
 [Link to the problem](https://cssbattle.dev/play/2)
 
 ![result](./img/2-carrom.png)
 
 ```html
-<p a><p b><p c><p d> <!-- instead of using class(<p class="a"></p>) or id(<p id="a">) simply uses <p a></p> -->
+<p a><p b><p c><p d> <!-- instead of using class(<p class="a"></p>) or id(<p id="a">) simply uses <p a></p> or <p> -->
   <style>
     *{
         margin:0;
