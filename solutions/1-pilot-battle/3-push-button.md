@@ -18,7 +18,7 @@
   p {
         position:absolute;
     }
-  p[c] {            /*instead of using .a(for class) or #a(for id) can be called p[a] with p tag or just [a] with square brackets*/
+  p[c] {   /*instead of using .a(for class) or #a(for id) can be called p[a] with p tag or just [a] with square brackets*/
         width:300px;
         height:150px;
         background:#243D83;
