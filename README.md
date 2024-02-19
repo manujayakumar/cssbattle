@@ -20,3 +20,4 @@ Let's design with code!
  - [#4 - Ups n Downs](./solutions/1-pilot-battle/4-ups-n-downs.md)
  - [#5 - Acid Rain](./solutions/1-pilot-battle/5-acid-rain.md)
  - [#6 - Missing Slice](./solutions/1-pilot-battle/6-missing-slice.md)
+ - [#7 - Leafy Trail](./solutions/1-pilot-battle/7-leafy-trail.md)
