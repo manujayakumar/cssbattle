@@ -22,3 +22,4 @@ Let's design with code!
  - [#6 - Missing Slice](./solutions/1-pilot-battle/6-missing-slice.md)
  - [#7 - Leafy Trail](./solutions/1-pilot-battle/7-leafy-trail.md)
  - [#9 - Tesseract](./solutions/1-pilot-battle/9-tesseract.md)
+ - [#10 - Cloaked spirits](./solutions/1-pilot-battle/10-cloaked-spirits.md)
